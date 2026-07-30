@@ -1,0 +1,32 @@
+{
+  "name": "(Con)vaincre — Duel d'éloquence",
+  "short_name": "Éloquence",
+  "description": "Les 38 stratagèmes de Schopenhauer en jeu de cartes pédagogique.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0A0A0C",
+  "theme_color": "#E1241A",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "./icone-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icone-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
